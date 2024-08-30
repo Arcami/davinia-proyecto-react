@@ -1,0 +1,11 @@
+:root {
+  --fondo-principal: #010409;
+  --fondo-secundario: #0d1117;
+  --fondo-terciario: #161b22;
+}
+
+/* App.css */
+
+.container {
+  padding: 20px 40px; /* Adjust the padding as needed */
+}
